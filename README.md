@@ -1,11 +1,11 @@
 # Desarrollo ejemplo
 
-Nombre: Sergio Rivera
+Nombre: (Sergio Rivera)
 
-Cuatrimestre: (tu cuatrimestre)
+Cuatrimestre: (3 er cuatrimestre)
 
-Materia: (nombre de la materia)
+Materia: (desarrollo de software)
 
-Profesor: (nombre del profesor)
+Profesor: (luis alberto)
 
 Descripción: Práctica para usar Git y GitHub desde terminal.
